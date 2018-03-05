@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharGame.Plugins", "CharGame.Plugins.csproj", "{73E789A5-C327-C451-D3E9-D9D02D9AB200}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharGame", "CharGame.csproj", "{D8D2508C-B203-5640-27E0-07071D725CD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharGame.Editor", "CharGame.Editor.csproj", "{6CCC6079-B697-CD57-B52E-8AD0ABE69939}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73E789A5-C327-C451-D3E9-D9D02D9AB200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73E789A5-C327-C451-D3E9-D9D02D9AB200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73E789A5-C327-C451-D3E9-D9D02D9AB200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73E789A5-C327-C451-D3E9-D9D02D9AB200}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8D2508C-B203-5640-27E0-07071D725CD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8D2508C-B203-5640-27E0-07071D725CD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8D2508C-B203-5640-27E0-07071D725CD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8D2508C-B203-5640-27E0-07071D725CD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CCC6079-B697-CD57-B52E-8AD0ABE69939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CCC6079-B697-CD57-B52E-8AD0ABE69939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CCC6079-B697-CD57-B52E-8AD0ABE69939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CCC6079-B697-CD57-B52E-8AD0ABE69939}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
